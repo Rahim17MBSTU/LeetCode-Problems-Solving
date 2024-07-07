@@ -27,4 +27,20 @@
 |  |
 | ------- |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Depth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2121-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2121-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
