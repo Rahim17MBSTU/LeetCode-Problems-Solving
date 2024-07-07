@@ -4,7 +4,7 @@ public:
     int parent [N],size[N];
     void make(int v){
         parent[v] = v;
-        //size[v] = 1;
+        
     }
     int find(int u){
         if(u == parent[u]){
@@ -16,7 +16,7 @@ public:
         int a1 = find(a);
         int b1 = find(b);
         if(a1 != b1){
-            //if(size[a1] < size[b1]) swap(a1,b1);
+            
            parent[b1] = a1;
            
         }
@@ -28,9 +28,9 @@ public:
         for(int i=0;i<n;i++) {
             make(i);
         }
-        for(int i=0;i<sz;i++){
-            int u = edges[i][0];
-            int v = edges[i][1];
+        for(auto edge: edges){
+            int u = edge[0];
+            int v = edge[1];
             Union(u,v);
             
         }
