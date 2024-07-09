@@ -31,19 +31,23 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0684-redundant-connection) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0684-redundant-connection) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0684-redundant-connection) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0684-redundant-connection) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2121-find-if-path-exists-in-graph) |
 ## Hash Table
 |  |
