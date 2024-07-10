@@ -3,14 +3,14 @@ public:
     int dx[4] = { -1, 0 ,0, 1};
     int dy[4] = { 0 , -1 , 1, 0 };
     int orangesRotting(vector<vector<int>>& grid) {
-        int roten = 0;
+        int FreshOrange = 0;
         int n = grid.size();
         int m = grid[0].size();
         vector<vector<int>>dis(20,vector<int>(20,0));
         queue<pair<int,int>>q;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j] == 1)roten++;
+                if(grid[i][j] == 1)FreshOrange++;
                 if(grid[i][j] == 2){
                     q.push({i,j});
                     dis[i][j] = 0;
@@ -30,12 +30,12 @@ public:
                     grid[x][y] = 0;
                     dis[x][y] += dis[row][col] + 1;
                     minite = max(minite , dis[x][y]);
-                    roten--; 
+                    FreshOrange--; 
                     q.push({x,y});
                 }
             }
         }
-        if(roten == 0) return minite;
+        if(FreshOrange == 0) return minite;
         return -1;
 
     }
