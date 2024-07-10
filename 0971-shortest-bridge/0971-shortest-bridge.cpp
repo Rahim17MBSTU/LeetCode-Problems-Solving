@@ -36,14 +36,7 @@ public:
             }
             if(ok == 1)break;
         }
-        // for(int i=0;i<n;i++){
-        //     for(int j=0;j<m;j++){
-        //         cout<<g[i][j]<<" ";
-              
-        //     }
-        //     cout<<endl;
-
-        // }
+       
         queue<pair<int,int>>q;
         
         for(int i=0;i<n;i++){
@@ -76,7 +69,6 @@ public:
                 }
               
             }
-           // cout<<endl;
 
         }
         return ans-1;
