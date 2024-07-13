@@ -3,23 +3,12 @@ public:
     vector<int> survivedRobotsHealths(vector<int>& positions, vector<int>& healths, string directions) {
         int n = positions.size();
         vector<int>v;
-        set<char>c;
-        for(auto u:directions){
-            c.insert(u);
-
-        }
-        if(c.size() == 1){
-            return healths;
-        }
         vector<pair<int,pair<int,pair<char,int>>>>vp;
         for(int i=0;i<n;i++){
             vp.push_back(make_pair(positions[i],make_pair(healths[i],make_pair(directions[i],i))));
 
         }
         sort(vp.begin(),vp.end());
-        for(auto u:vp){
-            cout<<u.first<<" "<<u.second.first<<" "<<u.second.second.first<<" "<<u.second.second.second<<endl;
-        }
         stack<pair<int,pair<char,int>>>st;
         vector<pair<int,int>>res;
         for(auto u:vp){
@@ -43,9 +32,6 @@ public:
                     int R_indx = st.top().second.second;
                     
                     if(R_health == health){
-                        
-                        
-                       
                         ok = 0;
                         st.pop();
                         break;
@@ -62,13 +48,8 @@ public:
                     }
                 }
                 if(ok == 1){
-                    st.push({health,{dir,indx}});
-                    while(!st.empty()){
-                            int health = st.top().first;
-                            int indx = st.top().second.second;
-                            res.push_back({indx,health});
-                            st.pop();
-                    } 
+                   res.push_back({indx,health});
+                    
                 }
                
 
@@ -82,11 +63,11 @@ public:
             
         }
         while(!st.empty()){
-            // cout<<"hhhhh\n";
+            
             int health = st.top().first;
             int indx = st.top().second.second;
             res.push_back({indx,health});
-            //cout<<health<<" "<<indx<<endl;
+            
             st.pop();
         }
         sort(res.begin(),res.end());
