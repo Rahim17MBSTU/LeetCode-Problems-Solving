@@ -1,104 +1,94 @@
 class Solution {
 public:
-    string countOfAtoms(string s) {
-        int n = s.size();
-        map<string,int>mp;
-        multiset<string>ms;
-        stack<char>st;
+    string countOfAtoms(string formula) {
+        stack<pair<string,int>>st;
+        int n = formula.size();
         for(int i=0;i<n;i++){
-            char c = s[i];
-            if(st.empty()) st.push(c);
-            else if(c =='('){
-                st.push(c);
-            }else if( c == ')'){
-                string ss = "",d="",digit = "",res="";
-                i++;
-                int next_value = 1;
-                while(i<n && s[i]>='0' && s[i]<='9'){
-                    d+=s[i];
-                    i++;
+            string ss = "";
+            if(isupper(formula[i])){
+               int j = i+1;
+               ss+=formula[i];
+               for(;j<n;j++){
+                 if(islower(formula[j])){
+                    ss += formula[j];
+                 }
+                 else 
+                 {
+                    //j--;
+                    break;
+                 }
+               }
+               int k = j;
+               //cout<<"k ="<<k<<endl;
+               string digit = "";
+               for(;k<n;k++){
+                if(isdigit(formula[k])){
+                    digit+=formula[k];
+                }else{
+                    break;
                 }
-                if(d.size() >= 1){
-                    next_value = stoi(d);
-                }
+               }
+              
+               int x = 1;
+               if(digit.size()>=1) x = stoi(digit);
+              
+               st.push({ss,x});
+               i = k-1;
+              
+            }else if(formula[i] =='('){
+                ss+=formula[i];
+                st.push({ss,0});
+            }else if(formula[i] == ')'){
                 
-                while(1){
-                    char ch = st.top();
-                    st.pop();
-                    if(ch == '('){
+                int j = i + 1;
+                string digit = "";
+                for(;j<n;j++){
+                    if(isdigit(formula[j]))
+                    digit+=formula[j];
+                    else{
                         break;
                     }
-                    if(ch >='0' && ch <='9'){
-                        digit += ch;
-                    }else{
-                        
-                        if(ch >='A' && ch <='Z'){
-                            int x = 1;
-                            if(digit.size()>=1){
-                               reverse(digit.begin(),digit.end());
-                               x = stoi(digit); 
-                            }
-                            x*=next_value;
-                            ss += ch;
-                            reverse(ss.begin(),ss.end());
-                            ss+=to_string(x);
-                           
-                            res+=ss;
-                            
-                            ss="";
-                            digit="";
-                            
-                        }else{
-                            ss += ch;
-                        }
+
+                }
+                i = j-1;
+                int value = 1;
+                if(digit.size()>=1)value *= stoi(digit);
+                
+                vector<pair<string,int>>vp;
+                while(!st.empty()){
+                    string d = st.top().first;
+                    int k = st.top().second;
+                    st.pop();
+                    if(d == "(" ) break;
+                    else{
+                        k *= value;
+                        vp.push_back({d,k});
                     }
                     
                 }
-                i--;
-                for(auto u:res){
-                    st.push(u);
+                while(!vp.empty()){
+                    string x = vp.back().first;
+                    int y = vp.back().second;
+                    vp.pop_back();
+                    st.push({x,y});
                 }
-            }else{
-                st.push(c);
             }
         }
-        string kk="";
-        char ch;
+        map<string,int>mp;
         while(!st.empty()){
-            ch = st.top();
-           
+            string ss = st.top().first;
+            int x = st.top().second;
             st.pop();
-            if(ch >='A' && ch <='Z'){
-                kk += ch;
-                reverse(kk.begin(),kk.end());
-               
-                ms.insert(kk);
-                kk="";
+            mp[ss] += x; 
+        }
+        string res = "";
+        for(auto u:mp){
+            if(u.second > 1){
+                res+=u.first+ to_string(u.second);
             }else{
-                kk += ch;
+                res+=u.first;
             }
         }
-       
-        string ans="";
-        for(auto u:ms){
-            string k ="",digit="";
-            for(auto t:u){
-                if(t >='0' && t<='9'){
-                    digit+=t;
-                }else{
-                    k+=t;
-                }
-            }
-           
-            int x = 0;
-            x+= (digit.size()>=1)?stoi(digit):1;
-            mp[k]+=x;
-        }
-        
-        for(auto u:mp){ 
-            ans+=u.first+(u.second != 1 ? to_string(u.second):"");
-            
-        }
-        return ans;
+        return res;
     }
 };
