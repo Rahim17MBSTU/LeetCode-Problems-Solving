@@ -42,9 +42,9 @@ public:
                             ss += ch;
                             reverse(ss.begin(),ss.end());
                             ss+=to_string(x);
-                            //reverse(ss.begin(),ss.end());
+                           
                             res+=ss;
-                            //ms.insert(ss);
+                            
                             ss="";
                             digit="";
                             
@@ -66,20 +66,19 @@ public:
         char ch;
         while(!st.empty()){
             ch = st.top();
-            //kk += ch;
-            //cout<<ch<<" ";
+           
             st.pop();
             if(ch >='A' && ch <='Z'){
                 kk += ch;
                 reverse(kk.begin(),kk.end());
-               // cout<<kk<<endl;
+               
                 ms.insert(kk);
                 kk="";
             }else{
                 kk += ch;
             }
         }
-        //cout<<k<<endl;
+       
         string ans="";
         for(auto u:ms){
             string k ="",digit="";
@@ -90,7 +89,7 @@ public:
                     k+=t;
                 }
             }
-            //cout<<k<< " "<<digit<<endl;
+           
             int x = 0;
             x+= (digit.size()>=1)?stoi(digit):1;
             mp[k]+=x;
