@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0542-01-matrix](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0542-01-matrix) |
 | [0971-shortest-bridge](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0971-shortest-bridge) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0542-01-matrix](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0542-01-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1117-as-far-from-land-as-possible) |
 ## String
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0726-number-of-atoms](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -117,4 +120,12 @@
 | ------- |
 | [0726-number-of-atoms](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2846-robot-collisions) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
