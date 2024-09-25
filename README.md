@@ -13,6 +13,7 @@
 | [1104-coloring-a-border](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1293-three-consecutive-odds](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1293-three-consecutive-odds) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -58,6 +59,7 @@
 | [1073-number-of-enclaves](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1117-as-far-from-land-as-possible) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2121-find-if-path-exists-in-graph) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Union Find
@@ -90,6 +92,7 @@
 | [1073-number-of-enclaves](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1117-as-far-from-land-as-possible) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Dynamic Programming
 |  |
 | ------- |
