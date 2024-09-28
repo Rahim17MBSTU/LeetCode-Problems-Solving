@@ -1,11 +1,12 @@
 class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        unordered_map<string ,int>mp,dis;
+        unordered_set<string>mp;
+        unordered_map<string,int>dis;
         
         for(auto u:wordList){
             string s = u;
-            mp[s]++;
+            mp.insert(s);
             dis[s] = 1e9;
         }
         
@@ -28,7 +29,7 @@ public:
                 for(char i = 'a'; i<='z'; i++){
                     temp[j] = i;
 
-                    if(mp[temp]>=1 && dis[str] < dis[temp]){
+                    if(mp.find(temp)!=mp.end() && dis[str] < dis[temp]){
                     
                     dis[temp] = min(dis[temp],dis[str]+1);
                     q.push(temp);
