@@ -8,12 +8,8 @@ public:
             mp[s]++;
             dis[s] = 1e9;
         }
-        if(mp[endWord]<1){
-            return 0;
-        }
-        if(beginWord == endWord){
-            return 1;
-        }int n = wordList.size();
+        
+        int n = wordList.size();
 
         queue<string>q;
 
