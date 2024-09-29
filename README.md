@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0897-prime-palindrome](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0897-prime-palindrome) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0179-largest-number) |
 | [0726-number-of-atoms](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0726-number-of-atoms) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2846-robot-collisions](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2846-robot-collisions) |
 ## Two Pointers
 |  |
