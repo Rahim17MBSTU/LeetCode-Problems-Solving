@@ -18,6 +18,7 @@
 | [1293-three-consecutive-odds](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1293-three-consecutive-odds) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1694-make-sum-divisible-by-p) |
+| [1923-sentence-similarity-iii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1923-sentence-similarity-iii) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
@@ -129,6 +130,7 @@
 | [0726-number-of-atoms](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1923-sentence-similarity-iii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1923-sentence-similarity-iii) |
 ## Stack
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Monotonic Stack
 |  |
