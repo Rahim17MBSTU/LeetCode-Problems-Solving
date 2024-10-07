@@ -2,22 +2,22 @@ class Solution {
 public:
     int minLength(string s) {
         
-        stack<char>Stack;
+        string result="";
         
         for(int i = 0 ; i < s.size(); i++){
 
-            if(Stack.empty()){
-                Stack.push(s[i]);
+            if(result.empty()){
+                result.push_back(s[i]);
             }else{
-                if(Stack.top() =='A' && s[i] =='B' ){
-                    Stack.pop();
-                }else if(Stack.top() =='C' && s[i] =='D'){
-                    Stack.pop();
+                if(result.back() =='A' && s[i] =='B' ){
+                    result.pop_back();
+                }else if(result.back() =='C' && s[i] =='D'){
+                    result.pop_back();
                 }else{
-                    Stack.push(s[i]);
+                    result.push_back(s[i]);
                 }
             }
         }
-        return Stack.size();
+        return result.size();
     }
 };
