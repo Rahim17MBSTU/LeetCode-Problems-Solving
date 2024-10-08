@@ -130,6 +130,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0726-number-of-atoms) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1923-sentence-similarity-iii) |
@@ -141,6 +142,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0726-number-of-atoms](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0726-number-of-atoms) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0179-largest-number) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
