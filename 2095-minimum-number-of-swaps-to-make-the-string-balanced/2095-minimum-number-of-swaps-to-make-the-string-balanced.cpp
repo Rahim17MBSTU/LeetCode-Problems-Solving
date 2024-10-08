@@ -1,22 +1,23 @@
 class Solution {
 public:
     int minSwaps(string s) {
-        stack<char> st;
+        string result = "";
         int n = s.size();
         for(int i = 0 ;i < n ;i++){
-            if(st.empty()){
-                st.push(s[i]);
+            if(result.empty()){
+                result.push_back(s[i]);
             }else{
-                if(st.top() == '[' && s[i] == ']'){
-                    st.pop();
+                if(result.back() == '[' && s[i] == ']'){
+                    result.pop_back();
                 }else{
-                    st.push(s[i]);
+                    result.push_back(s[i]);
                 }
             }
         }
-        cout << st.size()<<endl;
-        int answer = st.size()/2;
-        answer = (answer % 2 == 0) ? answer / 2 : answer / 2 + 1;
+        int sz = result.size()/2;
+        int answer = sz / 2;  
+        if( sz % 2 == 1) answer++;
+        
         return answer ; 
     }
 };
