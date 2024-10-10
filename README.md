@@ -12,6 +12,7 @@
 | [0179-largest-number](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0179-largest-number) |
 | [0542-01-matrix](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0542-01-matrix) |
 | [0971-shortest-bridge](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0971-shortest-bridge) |
+| [1002-maximum-width-ramp](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1073-number-of-enclaves) |
@@ -146,6 +147,7 @@
 | [0042-trapping-rain-water](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0726-number-of-atoms](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
+| [1002-maximum-width-ramp](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1002-maximum-width-ramp) |
 ## Prefix Sum
 |  |
 | ------- |
