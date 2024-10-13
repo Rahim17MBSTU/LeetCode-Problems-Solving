@@ -1,30 +1,23 @@
 class Solution {
 public:
     vector<int> fullBloomFlowers(vector<vector<int>>& flowers, vector<int>& people) {
-        
         int n = flowers.size();
-        map<int,int>mp;
-        for(auto u:people){
-            mp[u] = 0;
-        }
-
-        for(int i = 0 ; i < n ; i++){
-            int start = flowers[i][0];
-            int end = flowers[i][1]+1;
-            mp[start]++;
-            mp[end]--;
-        }
-        int count = 0;
-        for(auto u:mp){
-            count += u.second;
-            mp[u.first] = count;
-        }
-        n = people.size();
-        vector<int> answer;
+        vector<int>start(n,0),end(n,0);
         
-        for(auto u:people){
-          answer.push_back(mp[u]);            
+        for(int i = 0 ; i < n;i++){
+            int st = flowers[i][0];
+            int ed = flowers[i][1];
+            start.push_back(st);
+            end.push_back(ed);
         }
-        return answer;
+        sort(start.begin(),start.end());
+        sort(end.begin(),end.end());
+        vector<int>result ;
+        for(auto u:people){
+            int x = upper_bound(start.begin(),start.end(),u)-start.begin();
+            int y = lower_bound(end.begin(),end.end(),u)-end.begin();
+            result.push_back(x-y);
+        }
+        return result;
     }
 };
