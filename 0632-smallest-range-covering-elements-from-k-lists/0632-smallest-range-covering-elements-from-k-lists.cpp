@@ -11,12 +11,20 @@ public:
             int mnIndex = 0;
             int mn = INT_MAX;
             int mx = INT_MIN;
-            for(int i=0;i<nums.size();i++){
+            int i = 0,j=nums.size()-1;
+            while(i<=j){
                 if(mn > nums[i].back()){
                     mn = nums[i].back();
                     mnIndex = i;
                 }
                 mx = max(mx,nums[i].back());
+                  if(mn > nums[j].back()){
+                    mn = nums[j].back();
+                    mnIndex = j;
+                }
+                mx = max(mx,nums[j].back());
+                i++;
+                j--;
             }
             //cout<<mn<<" "<<mx<< " "<<mnIndex<<endl;
             nums[mnIndex].pop_back();
