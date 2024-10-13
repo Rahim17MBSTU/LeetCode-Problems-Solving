@@ -1,45 +1,35 @@
 class Solution {
 public:
     vector<int> smallestRange(vector<vector<int>>& nums) {
-        for(int i=0;i<nums.size();i++){
+        int n = nums.size();
+        for(int i = 0 ; i< n;i ++){
             reverse(nums[i].begin(),nums[i].end());
         }
-        vector<int>v;
-        int x1,x2,value = INT_MAX;
-        bool ok =1 ;
-        while(ok){
-            int mnIndex = 0;
-            int mn = INT_MAX;
-            int mx = INT_MIN;
-            int i = 0,j=nums.size()-1;
-            while(i<=j){
-                if(mn > nums[i].back()){
-                    mn = nums[i].back();
-                    mnIndex = i;
-                }
-                mx = max(mx,nums[i].back());
-                  if(mn > nums[j].back()){
-                    mn = nums[j].back();
-                    mnIndex = j;
-                }
-                mx = max(mx,nums[j].back());
-                i++;
-                j--;
-            }
-            //cout<<mn<<" "<<mx<< " "<<mnIndex<<endl;
-            nums[mnIndex].pop_back();
-            if(nums[mnIndex].empty())ok = 0;
-            if(mx - mn < value){
-                
-                value = mx - mn;
-                x1 = mn;
-                x2 = mx;
-            }
-        
-            
+        int mx = INT_MIN,value = INT_MAX;
+        priority_queue<pair<int,int> ,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+        for(int i = 0 ;i < n; i++){
+            int x = nums[i].back();
+            mx = max(x,mx);
+            nums[i].pop_back();
+            pq.push({x,i});
         }
-        v.push_back(x1);
-        v.push_back(x2);
+        int answer1 , answer2 = 0;
+        while(true){
+            int x = pq.top().first;
+            int indx = pq.top().second;
+            pq.pop();
+            if(mx - x < value){
+                value = mx - x;
+                answer1 = x;
+                answer2 = mx;
+            }
+            if(nums[indx].empty())break;
+            int x1 = nums[indx].back();
+            nums[indx].pop_back();
+            pq.push({x1,indx});
+            mx = max(mx,x1);
+        }
+        vector<int>v{answer1,answer2};
         return v;
     }
 };
