@@ -31,6 +31,7 @@
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2846-robot-collisions](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2846-robot-collisions) |
 ## Math
@@ -171,6 +172,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Binary Search
 |  |
 | ------- |
