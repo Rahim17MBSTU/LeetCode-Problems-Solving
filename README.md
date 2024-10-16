@@ -145,6 +145,7 @@
 | [0726-number-of-atoms](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1304-longest-happy-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1304-longest-happy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1923-sentence-similarity-iii) |
@@ -172,6 +173,7 @@
 | [0179-largest-number](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1304-longest-happy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -234,6 +236,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1304-longest-happy-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
