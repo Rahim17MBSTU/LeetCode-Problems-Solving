@@ -1,21 +1,17 @@
 class Solution {
 public:
-    int answer =0;
-     int calculation(int Xor,vector<int>&v,int i,int n,int value ){
-        if(i == n){
-            if(Xor == value)answer++;
-            return 0;
+    int calculation(int i, vector<int>&v, int NewOrValue, int targetOr){
+        if(i == v.size()){
+            return targetOr == NewOrValue ? 1 : 0;
         }
-        
-        calculation(Xor,v,i+1,n,value) ;
-        calculation(Xor|v[i],v,i+1,n,value) ;
-        return answer;
+        int pick = calculation(i+1,v, NewOrValue | v[i] , targetOr);
+        int nonPick = calculation(i+1,v, NewOrValue , targetOr);
+        return pick + nonPick;
     }
     int countMaxOrSubsets(vector<int>& nums) {
-        int value = 0;
-        for(auto u:nums){
-            value |= u;
-        }
-        return calculation(0,nums,0,nums.size(),value);
+        int targetOr = 0;
+        for(auto u:nums) targetOr |= u;
+        return calculation(0,nums,0,targetOr);
     }
+    
 };
