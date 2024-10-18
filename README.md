@@ -27,6 +27,7 @@
 | [1923-sentence-similarity-iii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1923-sentence-similarity-iii) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -264,4 +265,16 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0214-shortest-palindrome) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
