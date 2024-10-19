@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0983-validate-stack-sequences](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0983-validate-stack-sequences) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2846-robot-collisions) |
@@ -150,6 +151,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1304-longest-happy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -277,4 +279,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Recursion
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
