@@ -1,74 +1,49 @@
 class Solution {
 public:
-    bool calculation(int indx,stack<pair<char,int>>&st,bool ok,bool ORR, bool ANND ,bool NOOT){
-        while(!st.empty()){
-            
-            int x = st.top().second;
-            bool value = st.top().first == 't'?1:0;
-            
-            if(x < indx){
-                break;
+    bool calculation(vector<char>&v,char op){
+        bool result;
+        if(op == '|'){
+            result = 0;
+            for(auto u:v){
+                result |= (u=='f'?0:1);
             }
-            
-            st.pop();
-            
-            if(ORR == 1) ok |= value;
-            if(ANND == 1) ok &= value;
-            if(NOOT == 1) ok = !value ;
+        }else if(op == '&'){
+            result = 1;
+            for(auto u:v){
+                result &= (u=='f'?0:1);
+            }
+        }else{
+            result = 0;
+            for(auto u:v)
+            result = !(u == 'f'?0:1);
         }
-        cout << ok <<endl;
-        return ok;
+        return result;
     }
-
     bool parseBoolExpr(string s) {
-        
-        stack<pair<char,int>>symbol,bracket,expression;
-        bool result = 0, okk = 0;
-        
+        stack<char> expression;
+        bool result = 0;
         for(int i = 0 ; i < s.size(); i++){
-
             if(s[i] == ',')continue;
-
-            if(s[i] == '&'||s[i] =='|' || s[i] =='!'){
-
-                symbol.push({s[i],i});
-
-            }else if(s[i] =='f' || s[i] =='t'){
-                
-                expression.push({s[i],i});
-            
-            }else{
-                
-                if(s[i] =='('){
-                    
-                    bracket.push({s[i],i});
-                
-                }else{
-                    
-                    int indx = bracket.top().second;
-                    bracket.pop();
-                    
-                    if(symbol.top().first == '|'){ 
-                        
-                        result = 0;
-                        result |=calculation(indx,expression,false,true,false,false);
-                    
-                    }else if(symbol.top().first == '&'){
-                        result = 1;  
-                        result &= calculation(indx,expression,true,false,true,false);
-                    
-                    }else{
-                 
-                        result = expression.top().first == 't'?1:0;
-                        result = calculation(indx,expression,result,false,false,true);
-                    
-                    }
-                   
-                    expression.push({result == true?'t':'f',indx});
-                    
-                    symbol.pop();
+            if(s[i] == ')'){
+                vector<char>v;
+                while(!expression.empty()){
+                    char ch = expression.top();
+                    expression.pop();
+                    if(ch == '('){  
+                        break;
+                    }v.push_back(ch);
                 }
+                char op = expression.top();
+
+                expression.pop();
+                result = calculation(v,op);
+                expression.push(result==1?'t':'f');
             }
+            else{
+                expression.push(s[i]);
+            }
+                
+               
         }
         return result;
     }
