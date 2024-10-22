@@ -109,6 +109,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0567-permutation-in-string) |
@@ -143,6 +144,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0127-word-ladder](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
