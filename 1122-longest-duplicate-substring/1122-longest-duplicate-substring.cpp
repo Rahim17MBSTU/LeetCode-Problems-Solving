@@ -83,18 +83,12 @@ pair<int,int>pref[N];
                 auto hs1 = get_hash(i,i+mid-1);
                 mp[hs1]++;
                 if(mp[hs1]>=2){
-                    cout<<"aise1 ="<< i<<" "<<i+mid-1<<endl;
-                    
                     x1 = i;
                     x2 = i+mid-1;
-                    //cout<<res<<endl;
-                    //x1= i;
-                    //x2 = i+mid-1;
                     ok = 1;
                 }
             }
             if(ok){
-                //cout<<"aise = "<<mid<<endl;
                 ans = mid;
                 low = mid+1;
             }else{
