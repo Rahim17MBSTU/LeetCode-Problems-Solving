@@ -23,6 +23,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1923-sentence-similarity-iii) |
@@ -136,6 +137,7 @@
 | [1073-number-of-enclaves](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1117-as-far-from-land-as-possible) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Dynamic Programming
 |  |
@@ -144,6 +146,7 @@
 | [0042-trapping-rain-water](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0542-01-matrix](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0542-01-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1117-as-far-from-land-as-possible) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## String
 |  |
 | ------- |
