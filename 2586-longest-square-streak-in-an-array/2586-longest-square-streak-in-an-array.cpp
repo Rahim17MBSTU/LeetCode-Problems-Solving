@@ -2,14 +2,10 @@ class Solution {
 public:
     
     int longestSquareStreak(vector<int>& v) {
-        int n = v.size();
-        vector<int>mp(1e5+10,0);
+        
+        vector<int>mp(1e5+2,0);
         for(auto u:v)mp[u]++;
-        // set<int>s;
-        // for(int i = 0 ; i < n; i++){
-        //     mp[v[i]]++;
-        //     s.insert(v[i]);
-        // }
+        
         int mx = 0,cnt = 0 ;
         for(auto u:v){
             long long  x = u;
