@@ -24,13 +24,10 @@ public:
         cout<<endl;
         int mx = INT_MAX;
         for(int i = 1; i < n-1 ; i++){
-            int len1 = i+1;
-            int len2 = n - i;
-            int x1 = len1 - LIS[i];
-            int x2 = len2 - LDS[i];
-            cout<<x1<<" "<<x2<<endl;
-            if(LIS[i] > 1 && LDS[i] >1)
-            mx = min(mx,x1 + x2);
+            if(LIS[i] > 1 && LDS[i] > 1){
+                int x = n - LIS[i] - LDS[i] + 1;
+                mx = min(mx,x);
+            }
         }
         return mx;
     }
