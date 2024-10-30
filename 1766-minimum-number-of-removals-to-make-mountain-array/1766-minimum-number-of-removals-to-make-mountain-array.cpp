@@ -1,34 +1,42 @@
 class Solution {
 public:
+    vector<int> FindLongestIncreasingSubsequence(vector<int>&v,bool ok ){
+        int n = v.size();
+        if(ok == 1) reverse(v.begin(),v.end());
+        vector<int>lis,lisen;
+        for(int i = 0 ; i < n ; i++){
+            int indx = lower_bound(lisen.begin(),lisen.end(),v[i]) - lisen.begin();
+            if(indx == lisen.size()){
+                lisen.push_back(v[i]);
+            }else{
+                lisen[indx] = v[i];
+            }
+            lis.push_back(lisen.size());
+        }
+        if ( ok == 1)reverse(lis.begin(),lis.end());
+        return lis;
+    }
     int minimumMountainRemovals(vector<int>& nums) {
-        int n = nums.size();
-        vector<int>LIS(n,1),LDS(n,1);
-        for(int i = 0 ; i < n ;i++){
-            for(int j = 0 ; j < i ;j ++){
-                if(nums[j] < nums[i]){
-                    LIS[i] = max(LIS[i] ,LIS[j]+1); 
-                }
+        vector<int>LIS,LDS;
+
+        LIS = FindLongestIncreasingSubsequence(nums,0);
+        LDS = FindLongestIncreasingSubsequence(nums,1);
+
+        for(int i = 0 ; i < LIS.size();i++)
+        cout<<LIS[i] << " ";
+        cout<<endl;
+
+        for(int i = 0 ; i < LDS.size();i++)cout<<LDS[i] << " ";
+        cout<<endl;
+        int mxLength = 0;
+        int mx = INT_MAX,n=nums.size();
+        for(int i = 0 ; i < nums.size();i++){
+            if(LIS[i] > 1  && LDS[i] > 1){
+                mxLength = max(mxLength, (LIS[i] + LDS[i] - 1));
             }
         }
+        return n - mxLength;
+
         
-        for(int i = n-1;i>=0;i--){
-            for(int j = n-1;j>i;j--){
-                if(nums[j] < nums[i]){
-                    LDS[i] = max(LDS[i],LDS[j]+1);
-                }
-            }
-        }
-        for(int i = 0 ; i < n; i++)cout << LIS[i] << " ";
-        cout<<endl;
-        for(int i = 0 ; i < n; i++)cout << LDS[i] << " ";
-        cout<<endl;
-        int mx = INT_MAX;
-        for(int i = 1; i < n-1 ; i++){
-            if(LIS[i] > 1 && LDS[i] > 1){
-                int x = n - LIS[i] - LDS[i] + 1;
-                mx = min(mx,x);
-            }
-        }
-        return mx;
     }
 };
