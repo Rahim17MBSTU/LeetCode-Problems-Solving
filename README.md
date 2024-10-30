@@ -26,6 +26,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1694-make-sum-divisible-by-p) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1923-sentence-similarity-iii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1923-sentence-similarity-iii) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -151,6 +152,7 @@
 | [0542-01-matrix](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0542-01-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## String
@@ -202,6 +204,7 @@
 | [0670-maximum-swap](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1304-longest-happy-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -276,6 +279,7 @@
 |  |
 | ------- |
 | [1122-longest-duplicate-substring](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1122-longest-duplicate-substring) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2586-longest-square-streak-in-an-array) |
 ## Ordered Set
