@@ -2,24 +2,20 @@ class Solution {
 public:
     string makeFancyString(string s) {
         string result = "";
-        int cnt = 0;
-        for(int i = 0 ; i < s.size(); i++){
-            if(i){
-                if(s[i] == result.back()){
-                    cnt++;
-                    result+=s[i];
-                }else{
-                    cnt = 1;
-                    result += s[i];
-                }
-                if(cnt >= 3){
-                    cnt--;
-                    result.pop_back();
-                }
-            }else{
-                result += s[i];
+        result += s[0];
+        int cnt = 1;
+        for(int i = 1 ; i < s.size(); i++){
+            
+            if(s[i] == result.back()){
                 cnt++;
+                if(cnt <= 2 )
+                    result+=s[i];
+                
+            }else{
+                cnt = 1;
+                result += s[i];
             }
+            
         }
         return result;
     }
