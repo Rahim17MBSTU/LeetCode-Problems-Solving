@@ -167,6 +167,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1122-longest-duplicate-substring](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1122-longest-duplicate-substring) |
 | [1197-parsing-a-boolean-expression](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1197-parsing-a-boolean-expression) |
@@ -297,6 +298,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
