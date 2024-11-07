@@ -164,6 +164,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0205-isomorphic-strings) |
@@ -248,6 +249,7 @@
 | [0016-3sum-closest](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
