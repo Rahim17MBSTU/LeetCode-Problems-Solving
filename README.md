@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0179-largest-number) |
 | [0542-01-matrix](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0542-01-matrix) |
@@ -230,6 +231,7 @@
 | [0015-3sum](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0242-valid-anagram) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -250,6 +252,7 @@
 | [0016-3sum-closest](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1923-sentence-similarity-iii) |
