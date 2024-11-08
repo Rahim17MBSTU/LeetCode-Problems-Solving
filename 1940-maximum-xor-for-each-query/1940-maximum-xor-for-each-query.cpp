@@ -8,12 +8,9 @@ public:
         for(int i = 1 ; i < n ; i++){
             Xor[i] = Xor[i-1] ^ nums[i];
         }
-        //cout << mxValue;
+        
         for(int i = n -1 ; i >= 0;i--){
-            int x = Xor[i];
-           // cout<<x<<endl;
-            x = mxValue - x;
-            result.push_back(x);
+            result.push_back(mxValue ^ Xor[i]);
         }
         return result;
     }
