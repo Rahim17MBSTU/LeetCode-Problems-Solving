@@ -39,6 +39,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0983-validate-stack-sequences](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0983-validate-stack-sequences) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2846-robot-collisions) |
@@ -160,6 +162,7 @@
 | [1117-as-far-from-land-as-possible](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Dynamic Programming
 |  |
