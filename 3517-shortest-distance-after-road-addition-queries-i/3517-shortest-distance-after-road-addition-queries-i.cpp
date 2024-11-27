@@ -5,18 +5,14 @@ public:
         vector<int>g[n+1];
         for(int i=0;i<n;i++){
             g[i].push_back(i+1);
-            //g[i+1].push_back(i);
         }
-        int q = queries.size();
-        vector<int>res;
-        
+        vector<int>res;    
         for(vector<int>v : queries){
             int x = v[0];
             int y = v[1];
             g[x].push_back(y);
-            //g[y].push_back(x);
-            vector<int>dis(n+10,0);
-            vector<bool>vis(n+10,0);
+            vector<int>dis(n+1,0);
+            vector<bool>vis(n+1,0);
             vis[0] = 1;
             dis[0] = 0;
             queue<int>q;
@@ -32,7 +28,7 @@ public:
                     }
                 }
             }
-            cout << dis[n-1] <<"\n";
+           
             res.push_back(dis[n-1]);
         }
         
