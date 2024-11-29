@@ -10,7 +10,7 @@ public:
         int m = grid[0].size();
         priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<pair<int, pair<int, int>>>> pq;
         vector<vector<bool>> vis(n, vector<bool>(m, false));
-        vector<vector<int>> res(n,vector<int>(m,0));
+        //vector<vector<int>> res(n,vector<int>(m,0));
         
         pq.push({0, {0, 0}});
         
@@ -20,15 +20,10 @@ public:
             int col = pq.top().second.second;
             pq.pop();
             
-            // If this cell has already been visited, skip it
+            
              if (row == n - 1 && col == m - 1) {
-                for(int i = 0 ;i <n;i++){
-                    for(int j = 0 ;j <m;j++){
-                        cout << res[i][j]<<" ";
-                    }
-                    cout<<endl;
-                }
-                return res[row][col];
+               
+                return dis;
             }
             if (vis[row][col]) continue;
             vis[row][col] = true;
@@ -42,12 +37,12 @@ public:
                 if (x >= 0 && y >= 0 && x < n && y < m && !vis[x][y]) {
                     if (dis + 1 >= grid[x][y]) {
                         pq.push({dis + 1, {x, y}});
-                        res[x][y] = dis+1;
+                        //res[x][y] = dis+1;
                     } else {
                         int wait_time = grid[x][y] - dis;
                         int next_time = (wait_time % 2 == 0) ? grid[x][y]+1 : grid[x][y];
                         pq.push({next_time, {x, y}});
-                         res[x][y] = next_time;
+                         //res[x][y] = next_time;
                     }
                 }
             }
