@@ -51,6 +51,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2716-prime-subtraction-operation) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -117,6 +118,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
@@ -135,6 +137,7 @@
 | [2121-find-if-path-exists-in-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2121-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2671-shortest-cycle-in-a-graph) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
@@ -174,6 +177,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -334,6 +338,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -418,4 +423,5 @@
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 <!---LeetCode Topics End-->
