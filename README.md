@@ -99,6 +99,7 @@
 | [1104-coloring-a-border](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1104-coloring-a-border) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2121-find-if-path-exists-in-graph) |
+| [2201-valid-arrangement-of-pairs](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2201-valid-arrangement-of-pairs) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -135,6 +136,7 @@
 | [0684-redundant-connection](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0684-redundant-connection) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2121-find-if-path-exists-in-graph) |
+| [2201-valid-arrangement-of-pairs](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -424,4 +426,8 @@
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
