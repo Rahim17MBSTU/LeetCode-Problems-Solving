@@ -28,6 +28,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1694-make-sum-divisible-by-p) |
@@ -265,6 +266,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -341,6 +343,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1002-maximum-width-ramp) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Prefix Sum
 |  |
