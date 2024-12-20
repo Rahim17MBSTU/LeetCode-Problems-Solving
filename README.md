@@ -116,6 +116,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2121-find-if-path-exists-in-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2201-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -132,6 +133,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2121-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -465,12 +467,14 @@
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0988-flip-equivalent-binary-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0988-flip-equivalent-binary-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Suffix Array
