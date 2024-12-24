@@ -19,9 +19,9 @@ public:
             }
         }
         int mx = 0,indx = 0;
-       // cout<<"sosroso\n";
+     
         for(int i = 0 ; i<= n;i++){
-           // cout<<i<<" "<<dis[i]<<endl;
+       
             if(dis[i] > mx){
                 mx = dis[i];
                 indx = i;
@@ -56,12 +56,10 @@ public:
             int longestNode2 = longestNodeCalculation(0,g2,m,false);
             int x = longestNodeCalculation(longestNode1,g1,n,true);
             int y = longestNodeCalculation(longestNode2,g2,m,true);
-            //
+        
             int answer = 1 + (x + 1) / 2 + (y + 1) / 2;
             if(answer < max(x,y))answer = max(x,y);
         
-            cout << longestNode1 << " " << longestNode2<<endl;
-            cout<<"x = "<<x<<" y= "<<y<<endl;
             return answer;
     }
 };
