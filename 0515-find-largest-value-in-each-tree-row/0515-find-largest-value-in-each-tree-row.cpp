@@ -12,32 +12,28 @@
 class Solution {
 public:
     vector<int> largestValues(TreeNode* root) {
+
         vector<int>res;
-        if(root == nullptr){
-            return res;
-        }
-        queue<pair<TreeNode* ,int>>q;
-        q.push({root,0});
-        int CurrentLevel = 0;
-        int mx = INT_MIN;
+        if(root == nullptr) return res;
         
+        queue<TreeNode*>q;
+        q.push(root);
         while(!q.empty()){
-            auto [Current,Level] = q.front();
-            q.pop();
-            if(Level == CurrentLevel){
-                mx = max(Current->val,mx);
-            }else{
-                res.push_back(mx);
-                mx = Current->val;
-                CurrentLevel = Level;
+            int n = q.size();
+            int mx = INT_MIN;
+            while(n--){
+                auto current= q.front();
+                q.pop();
+                mx = max(mx, current->val);
+                if(current->left != nullptr){
+                    q.push(current->left);
+                }
+                if(current->right != nullptr){
+                    q.push(current->right);
+                }
             }
-            if(Current->left!= nullptr){
-                q.push({Current->left,Level+1});
-            }if(Current->right != nullptr){
-                q.push({Current->right,Level+1});
-            }
+            res.push_back(mx);
         }
-        res.push_back(mx);
         return res;
     }
 };
