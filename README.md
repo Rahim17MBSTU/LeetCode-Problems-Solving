@@ -107,6 +107,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0684-redundant-connection) |
 | [0971-shortest-bridge](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0971-shortest-bridge) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0127-word-ladder) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0684-redundant-connection) |
@@ -470,6 +472,7 @@
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -479,6 +482,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
