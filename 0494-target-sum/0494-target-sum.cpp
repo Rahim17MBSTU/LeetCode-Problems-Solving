@@ -1,23 +1,21 @@
 class Solution {
 public:
-  
-    int calculation(int i , int sum , vector<int>&v,int target){
-        int n = v.size();
-        
-        if(i >= n){
-            if(sum == target)return 1;
+    int solve(int i ,int sum ,vector<int> &nums,vector<vector<int>>&dp,int target,int totalSum){
+        if(i == nums.size()){
+            if(target == sum)return 1;
             else return 0;
         }
-
-        int take = 0;
-        
-        take += calculation(i+1,sum+v[i],v,target) + calculation(i+1,sum-v[i],v,target); 
-        
-       return take;
+        if(dp[i][sum+totalSum] != -1){
+            return dp[i][sum+totalSum];
+        }
+        int ans = 0;
+        ans += solve(i+1,sum+ nums[i],nums,dp,target,totalSum) + solve(i+1,sum - nums[i] , nums,dp,target,totalSum);
+        return dp[i][sum+totalSum] = ans;
     }
     int findTargetSumWays(vector<int>& nums, int target) {
-        int n = nums.size();
-        return  calculation(0,0,nums,target);
-        
+        int totalSum = 0;
+        for(auto u:nums) totalSum += u;
+        vector<vector<int>> dp(nums.size()+10,vector<int>(2*totalSum+10 , -1));
+        return solve(0,0,nums,dp,target,totalSum);
     }
 };
