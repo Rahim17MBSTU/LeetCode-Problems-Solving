@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0179-largest-number) |
+| [0494-target-sum](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0542-01-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0780-max-chunks-to-make-sorted) |
@@ -215,6 +216,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
+| [0494-target-sum](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0542-01-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -450,6 +452,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
