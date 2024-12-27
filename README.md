@@ -21,6 +21,7 @@
 | [1002-maximum-width-ramp](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1036-rotting-oranges) |
+| [1063-best-sightseeing-pair](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1117-as-far-from-land-as-possible) |
@@ -218,6 +219,7 @@
 | [0042-trapping-rain-water](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0494-target-sum](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0542-01-matrix) |
+| [1063-best-sightseeing-pair](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1063-best-sightseeing-pair) |
 | [1117-as-far-from-land-as-possible](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
