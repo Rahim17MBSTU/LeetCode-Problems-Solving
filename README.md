@@ -253,6 +253,7 @@
 | [1304-longest-happy-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -370,6 +371,7 @@
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1940-maximum-xor-for-each-query) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2334-number-of-flowers-in-full-bloom) |
