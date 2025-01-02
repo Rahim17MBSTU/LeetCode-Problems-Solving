@@ -59,6 +59,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -264,6 +265,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2580-circular-sentence](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -376,6 +378,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1940-maximum-xor-for-each-query) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3427-special-array-ii) |
 ## Counting
 |  |
