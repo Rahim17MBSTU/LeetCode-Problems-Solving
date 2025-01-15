@@ -316,6 +316,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2509-minimize-xor](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3195-separate-black-and-white-balls) |
@@ -485,6 +486,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2509-minimize-xor](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2509-minimize-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3394-minimum-array-end) |
 ## Enumeration
