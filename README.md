@@ -56,6 +56,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2465-shifting-letters-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
@@ -487,6 +488,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2509-minimize-xor](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3394-minimum-array-end) |
 ## Enumeration
@@ -544,4 +546,8 @@
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2201-valid-arrangement-of-pairs) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
