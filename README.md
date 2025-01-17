@@ -69,6 +69,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2716-prime-subtraction-operation) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2792-neighboring-bitwise-xor](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2868-continuous-subarrays) |
@@ -489,6 +490,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2509-minimize-xor](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3394-minimum-array-end) |
 ## Enumeration
