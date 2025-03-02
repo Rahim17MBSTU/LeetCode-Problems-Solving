@@ -2,14 +2,6 @@ public class Solution {
     public int[][] MergeArrays(int[][] nums1, int[][] nums2) {
         Array.Sort(nums1,(a,b) => a[0].CompareTo(b[0]));
         Array.Sort(nums2,(a,b) => a[0].CompareTo(b[0]));
-        foreach(var u in nums1){
-            Console.WriteLine(u[0]+" "+u[1]);
-        }
-        Console.WriteLine();
-        foreach(var u in nums1){
-            Console.WriteLine(u[0]+" "+u[1]);
-        }
-        Console.WriteLine();
         int n = nums1.Length;
         int m = nums2.Length;
         List<int[]> result = new List<int[]>();
