@@ -67,6 +67,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2716-prime-subtraction-operation) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -205,6 +206,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Matrix
@@ -371,6 +373,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3195-separate-black-and-white-balls) |
 ## Monotonic Stack
