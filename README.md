@@ -88,6 +88,7 @@
 | [0067-add-binary](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0067-add-binary) |
 | [0670-maximum-swap](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0670-maximum-swap) |
 | [0897-prime-palindrome](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0897-prime-palindrome) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
