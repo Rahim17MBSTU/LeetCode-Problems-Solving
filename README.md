@@ -93,6 +93,7 @@
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2716-prime-subtraction-operation) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
