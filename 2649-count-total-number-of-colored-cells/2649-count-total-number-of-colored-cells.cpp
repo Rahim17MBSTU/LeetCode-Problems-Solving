@@ -1,12 +1,10 @@
 class Solution {
 public:
     long long coloredCells(int n) {
-        long long sum = 1;
-        n--;
-        for(int i= 1;i<=n;i++){
-            sum += (1LL*4*i);
-        }
-        return sum;
+        long long ans = (long long)n * (n-1) / 2;
+        ans *= 4;
+        ans++;
+        return ans;
         
     }
 };
