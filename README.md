@@ -77,6 +77,7 @@
 | [2846-robot-collisions](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3291-find-if-array-can-be-sorted) |
 | [3427-special-array-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -96,6 +97,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2716-prime-subtraction-operation) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
@@ -211,6 +213,7 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Matrix
@@ -229,6 +232,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
