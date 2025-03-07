@@ -11,13 +11,11 @@ public class Solution {
                 }
             }
         }
-        // for(int i = 0;i<=15;i++){
-        //     Console.WriteLine($"i= {i} , vis[{i}]= {vis[i]}");
-        // }
-        for(int i = 2;i<=right;i++){
-            if(!vis[i] && i>=left) prime.Add(i);
+       
+        for(int i = left;i<=right;i++){
+            if(!vis[i]) prime.Add(i);
         }
-        if(prime.Count < 2)return res.ToArray();
+       
         int mx = (int)1e9;
         for(int i = 0 ; i < prime.Count-1;i++){
             int x = prime[i];
