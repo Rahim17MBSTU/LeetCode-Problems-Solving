@@ -286,6 +286,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -429,6 +430,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1122-longest-duplicate-substring](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1122-longest-duplicate-substring) |
 | [1755-defuse-the-bomb](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1755-defuse-the-bomb) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2868-continuous-subarrays](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
