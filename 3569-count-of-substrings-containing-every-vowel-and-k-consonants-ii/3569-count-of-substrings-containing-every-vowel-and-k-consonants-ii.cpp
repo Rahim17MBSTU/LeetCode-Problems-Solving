@@ -18,8 +18,7 @@ public:
                 LastConsonent = i;
             }
         }
-        // for(auto u:v)cout<<u<<" ";
-        // cout<<endl;
+       
         int i = 0 , j = 0, Consonent = 0;
         while(j < n){
             char ch = s[j];
