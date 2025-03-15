@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minCapability(vector<int>& nums, int k) {
-        int low = 1,high = *max_element(nums.begin(),nums.end());
+        int low = *min_element(nums.begin(),nums.end()),high = *max_element(nums.begin(),nums.end());
         int ans = high;
         auto f = [&](int mid){
             int cnt = 0;
