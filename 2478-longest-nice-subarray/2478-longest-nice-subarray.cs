@@ -1,6 +1,6 @@
 public class Solution {
     public int LongestNiceSubarray(int[] nums) {
-        int low = 1 , high = nums.Length;
+        int low = 2 , high = nums.Length;
         Func<int[],bool> check = (fre) => {
             for(int i = 0 ; i <=30;i++){
                 if(fre[i] >= 2)return false;
