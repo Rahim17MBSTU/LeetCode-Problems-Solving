@@ -85,6 +85,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3291-find-if-array-can-be-sorted) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3427-special-array-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3427-special-array-ii) |
 | [3483-alternating-groups-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -181,6 +182,7 @@
 | [0684-redundant-connection](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0684-redundant-connection) |
 | [1073-number-of-enclaves](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2121-find-if-path-exists-in-graph) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 | [2671-shortest-cycle-in-a-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3189-find-champion-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
@@ -538,6 +541,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3291-find-if-array-can-be-sorted) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3394-minimum-array-end](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3394-minimum-array-end) |
 ## Enumeration
 |  |
