@@ -207,6 +207,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -278,6 +279,7 @@
 | [0205-isomorphic-strings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0726-number-of-atoms) |
@@ -445,6 +447,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
