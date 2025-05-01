@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0179-largest-number) |
@@ -254,6 +255,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0053-maximum-subarray) |
 | [0494-target-sum](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0542-01-matrix) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1025-minimum-cost-for-tickets) |
@@ -602,4 +604,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
