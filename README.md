@@ -259,6 +259,7 @@
 | [0053-maximum-subarray](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0053-maximum-subarray) |
 | [0494-target-sum](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0542-01-matrix) |
+| [0868-push-dominoes](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1063-best-sightseeing-pair) |
 | [1117-as-far-from-land-as-possible](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1117-as-far-from-land-as-possible) |
@@ -286,6 +287,7 @@
 | [0567-permutation-in-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0868-push-dominoes) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1122-longest-duplicate-substring](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1122-longest-duplicate-substring) |
 | [1197-parsing-a-boolean-expression](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1197-parsing-a-boolean-expression) |
@@ -396,6 +398,7 @@
 | [0088-merge-sorted-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0567-permutation-in-string) |
+| [0868-push-dominoes](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
