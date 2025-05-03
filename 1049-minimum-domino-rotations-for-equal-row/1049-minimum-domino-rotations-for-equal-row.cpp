@@ -5,7 +5,7 @@ public:
         for(int i = 1; i<=6; i++){
             int cnt = 0;
             bool ok = 0;
-            //cout<<"i = "<<i<<" -> ";
+         
             for(int j = 0;j<tops.size();j++){
                 if(tops[j] == i)continue;
                 else if(bottoms[j] == i)cnt++;
@@ -17,7 +17,7 @@ public:
             if(ok == 0){
                 ans = min(ans,cnt);
             }
-            //cout<<ok<<" ";
+          
             cnt = 0;
             ok = 0;
             for(int j = 0;j<tops.size();j++){
@@ -28,7 +28,7 @@ public:
                     break;
                 }
             }
-            //cout<<ok<<'\n';
+          
             if(ok == 0){
                 ans = min(ans,cnt);
             }
