@@ -29,6 +29,7 @@
 | [1104-coloring-a-border](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -215,6 +216,7 @@
 | [0726-number-of-atoms](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0726-number-of-atoms) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1256-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -444,6 +446,7 @@
 ## Counting
 |  |
 | ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2308-divide-array-into-equal-pairs) |
