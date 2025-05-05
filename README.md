@@ -262,6 +262,7 @@
 | [0053-maximum-subarray](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0053-maximum-subarray) |
 | [0494-target-sum](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0542-01-matrix) |
+| [0806-domino-and-tromino-tiling](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1063-best-sightseeing-pair) |
