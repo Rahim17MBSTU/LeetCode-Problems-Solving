@@ -47,6 +47,7 @@
 | [1923-sentence-similarity-iii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1940-maximum-xor-for-each-query) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2048-build-array-from-permutation](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2048-build-array-from-permutation) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2164-two-best-non-overlapping-events](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -128,6 +129,7 @@
 | [0067-add-binary](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0067-add-binary) |
 | [0983-validate-stack-sequences](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0983-validate-stack-sequences) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2048-build-array-from-permutation](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
