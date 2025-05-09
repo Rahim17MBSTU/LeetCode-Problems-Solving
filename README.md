@@ -115,6 +115,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3637-count-number-of-balanced-permutations) |
 ## Number Theory
 |  |
 | ------- |
@@ -280,6 +281,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
 |  |
 | ------- |
@@ -333,6 +335,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3451-string-compression-iii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
 |  |
 | ------- |
@@ -635,4 +638,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0053-maximum-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
