@@ -87,6 +87,7 @@
 | [2846-robot-collisions](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3291-find-if-array-can-be-sorted) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -377,6 +378,7 @@
 | [2509-minimize-xor](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2716-prime-subtraction-operation) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
