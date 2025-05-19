@@ -91,6 +91,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3427-special-array-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3427-special-array-ii) |
 | [3483-alternating-groups-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3483-alternating-groups-ii) |
@@ -116,6 +117,7 @@
 | [2716-prime-subtraction-operation](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2716-prime-subtraction-operation) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3637-count-number-of-balanced-permutations) |
@@ -413,6 +415,7 @@
 | [2846-robot-collisions](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
