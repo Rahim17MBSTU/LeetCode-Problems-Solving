@@ -100,6 +100,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |
@@ -466,6 +467,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3427-special-array-ii) |
+| [3639-zero-array-transformation-i](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
 |  |
