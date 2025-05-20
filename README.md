@@ -658,4 +658,8 @@
 |  |
 | ------- |
 | [3637-count-number-of-balanced-permutations](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/3637-count-number-of-balanced-permutations) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
