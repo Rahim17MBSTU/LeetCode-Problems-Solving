@@ -433,6 +433,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -662,4 +663,5 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0237-delete-node-in-a-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
