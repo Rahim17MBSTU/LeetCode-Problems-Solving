@@ -601,6 +601,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0206-reverse-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Tree
@@ -666,6 +667,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0908-middle-of-the-linked-list) |
