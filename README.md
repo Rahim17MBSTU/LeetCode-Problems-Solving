@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0179-largest-number) |
@@ -217,6 +218,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0128-longest-consecutive-sequence) |
@@ -255,6 +257,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0542-01-matrix](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0542-01-matrix) |
 | [0971-shortest-bridge](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1036-rotting-oranges) |
