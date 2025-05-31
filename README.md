@@ -677,4 +677,8 @@
 | [0328-odd-even-linked-list](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
