@@ -681,4 +681,5 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0176-second-highest-salary) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
