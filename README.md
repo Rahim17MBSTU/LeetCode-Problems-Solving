@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0670-maximum-swap) |
 | [0897-prime-palindrome](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0897-prime-palindrome) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -585,6 +586,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0342-power-of-four) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -606,6 +608,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0342-power-of-four) |
 | [1197-parsing-a-boolean-expression](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Tree
