@@ -110,6 +110,7 @@
 | [0342-power-of-four](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0670-maximum-swap) |
 | [0897-prime-palindrome](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0897-prime-palindrome) |
+| [1448-maximum-69-number](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
@@ -383,6 +384,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1304-longest-happy-string) |
+| [1448-maximum-69-number](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1448-maximum-69-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rahim17MBSTU/LeetCode-Problems-Solving/tree/master/1917-maximum-average-pass-ratio) |
